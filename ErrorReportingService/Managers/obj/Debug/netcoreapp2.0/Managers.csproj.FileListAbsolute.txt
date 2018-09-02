@@ -1,0 +1,8 @@
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\Managers\bin\Debug\netcoreapp2.0\Managers.deps.json
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\Managers\bin\Debug\netcoreapp2.0\Managers.dll
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\Managers\bin\Debug\netcoreapp2.0\Managers.pdb
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\Managers\obj\Debug\netcoreapp2.0\Managers.csproj.CoreCompileInputs.cache
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\Managers\obj\Debug\netcoreapp2.0\Managers.AssemblyInfoInputs.cache
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\Managers\obj\Debug\netcoreapp2.0\Managers.AssemblyInfo.cs
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\Managers\obj\Debug\netcoreapp2.0\Managers.dll
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\Managers\obj\Debug\netcoreapp2.0\Managers.pdb
