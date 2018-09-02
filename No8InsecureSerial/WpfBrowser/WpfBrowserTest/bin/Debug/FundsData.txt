@@ -1,0 +1,14 @@
+{
+  "$type": "WpfBrowser.MutualFund, WpfBrowser",
+  "FullName": "DragonBlade Mutual",
+  "Portfolio": {
+    "$type": "System.Collections.Generic.List`1[[WpfBrowser.Share, WpfBrowser]], mscorlib",
+    "$values": [
+      {
+        "$type": "WpfBrowser.RecommendedShare, WpfBrowser",
+        "Stars": 4,
+        "Name": "ACME AB"
+      }
+    ]
+  }
+}
