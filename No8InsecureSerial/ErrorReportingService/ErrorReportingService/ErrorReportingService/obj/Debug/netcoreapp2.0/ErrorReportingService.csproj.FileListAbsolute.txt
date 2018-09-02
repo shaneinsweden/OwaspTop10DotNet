@@ -1,0 +1,14 @@
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\ErrorReportingService\bin\Debug\netcoreapp2.0\ErrorReportingService.deps.json
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\ErrorReportingService\bin\Debug\netcoreapp2.0\ErrorReportingService.runtimeconfig.json
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\ErrorReportingService\bin\Debug\netcoreapp2.0\ErrorReportingService.runtimeconfig.dev.json
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\ErrorReportingService\bin\Debug\netcoreapp2.0\ErrorReportingService.dll
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\ErrorReportingService\bin\Debug\netcoreapp2.0\ErrorReportingService.pdb
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\ErrorReportingService\obj\Debug\netcoreapp2.0\ErrorReportingService.csprojAssemblyReference.cache
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\ErrorReportingService\obj\Debug\netcoreapp2.0\ErrorReportingService.csproj.CoreCompileInputs.cache
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\ErrorReportingService\obj\Debug\netcoreapp2.0\ErrorReportingService.AssemblyInfoInputs.cache
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\ErrorReportingService\obj\Debug\netcoreapp2.0\ErrorReportingService.AssemblyInfo.cs
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\ErrorReportingService\obj\Debug\netcoreapp2.0\ErrorReportingService.dll
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\ErrorReportingService\obj\Debug\netcoreapp2.0\ErrorReportingService.pdb
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\ErrorReportingService\bin\Debug\netcoreapp2.0\Managers.dll
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\ErrorReportingService\bin\Debug\netcoreapp2.0\Managers.pdb
+D:\Sec\OwaspTop10\InsecureSerial\ErrorReportingService\ErrorReportingService\ErrorReportingService\obj\Debug\netcoreapp2.0\ErrorReportingService.csproj.CopyComplete
